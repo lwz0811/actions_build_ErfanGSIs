@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V10.2.1.0.OAACNXM/miui_MI5_V10.2.1.0.OAACNXM_b647d74428_8.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://download.h2os.com/OnePlus5/OPEN/OnePlus5Hydrogen_23_OTA_054_all_1906241435_a7d827c332c14e09.zipOxygenOS
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
